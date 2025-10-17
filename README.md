@@ -1,3 +1,45 @@
+✨ Features
+
+🔐 User Authentication - Secure registration and login with encrypted passwords
+💬 Real-time Messaging - Instant message delivery using WebSocket technology
+👥 Online Users - See who's currently online in the chat
+📱 Responsive Design - Beautiful UI that works on all devices
+🎨 Modern Interface - Gradient designs and smooth animations
+🔔 System Notifications - Join/leave notifications for better user experience
+⚡ Fast & Efficient - Optimized performance with Next.js 13 App Router
+💾 Message Persistence - All messages saved in MongoDB database
+
+
+🛠️ Tech Stack
+Frontend
+
+Next.js 13 (App Router)
+React 18
+Tailwind CSS
+Socket.io Client
+Lucide React (Icons)
+
+Backend
+
+Express.js
+Socket.io
+MongoDB with Mongoose
+bcryptjs (Password encryption)
+CORS
+
+Database
+
+MongoDB Atlas (Cloud)
+Collections: users, messages
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
